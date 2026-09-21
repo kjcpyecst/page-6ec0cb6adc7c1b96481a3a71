@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c48bb56683e5e08fa28ef92d",
+  "owner": "kjcpyecst",
+  "repo": "page-6ec0cb6adc7c1b96481a3a71",
+  "title": "茶猫(Teacat)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6ec0cb6adc7c1b96481a3a71",
+      "a": "茶猫(Teacat)",
+      "b": "2027官方最新地址导航",
+      "entity": "茶猫(Teacat)",
+      "brand": "茶猫(Teacat)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6dbde51ed5876ec2a02cbaa4d321330082e1eab3e9026348a3aeb75e73797a35",
+      "content": {
+        "primary_entity": "茶猫(Teacat)",
+        "keyword1": "茶猫(Teacat)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，围绕海外网络加速场景提供多档订阅选择，基础版、旗舰版与团队版分别匹配轻度浏览、多设备流媒体与团队协同需求。客户端覆盖常见桌面与移动系统，用户可依据设备类型配置订阅。",
+          "AI_HERO_SUBTITLE": "多设备订阅，三档套餐灵活选",
+          "AI_HERO_INTRO": "茶猫(Teacat)提供基础版、旗舰版与团队版三档海外加速订阅，分别对应每月100GB、300GB与1000GB流量，支持3台、5台与20台设备同时在线。旗舰版包含IPLC专线游戏加速优化，团队版可定制企业路由，按年付均享优惠价格。",
+          "AI_VISUAL_TITLE": "茶猫三档套餐按需选",
+          "AI_HIGHLIGHT_1": "基础版月付15元含100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版月付35元支持5台设备",
+          "AI_HIGHLIGHT_3": "团队版月付85元可20台设备在线",
+          "AI_FEATURES_TITLE": "套餐与设备搭配要点",
+          "AI_FEATURES_INTRO": "结合使用人数与设备数量选择套餐，按年付可降低月均支出。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按常用设备总数挑选。",
+          "AI_FEATURE_TITLE_2": "按流量需求匹配",
+          "AI_FEATURE_TEXT_2": "100GB适合轻量浏览，300GB满足流媒体，1000GB服务多人协同。",
+          "AI_FEATURE_TITLE_3": "年付更省月费",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版年付350元，团队版年付850元，比月付划算。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选用对应客户端，导入订阅后即可连接使用。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数和节点权益上依次增强，按需选择即可。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选套餐到客户端导入订阅，按步骤完成配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版中挑选。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端支持的协议类型，确保能正常导入订阅。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端文档导入订阅链接，保存后启动连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐轻松加速",
+          "AI_CLOSING_TEXT": "根据设备数与流量需求确定套餐，年付更实惠。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB，适合单人或两三人轻度使用，支持三台设备同时在线，按年付只需150元，性价比适合首次尝试的用户。",
+          "AI_FAQ_ANSWER_2": "旗舰版包含IPLC专线游戏加速优化和全节点原生流媒体解锁，每月300GB流量，支持五台设备，适合有多终端和流媒体需求的用户。",
+          "AI_FAQ_ANSWER_3": "团队版支持最多二十台设备同时在线，提供VIP专属高带宽节点和企业定制路由，每月1000GB流量，适合工作室或小团队共享使用。",
+          "AI_FAQ_ANSWER_4": "茶猫支持主流桌面和移动客户端，按设备系统选择对应版本，导入订阅链接后按客户端文档配置分流规则即可连接。",
+          "AI_FAQ_ANSWER_5": "订阅周期按自然月计算，月付在到期前续费即可继续使用；年付一次性支付，相当于节省两个月费用，长期使用更划算。",
+          "AI_FAQ_QUESTION_1": "基础版每月流量够用吗？",
+          "AI_FAQ_QUESTION_2": "旗舰版比基础版多哪些功能？",
+          "AI_FAQ_QUESTION_3": "团队版适合什么样的使用场景？",
+          "AI_FAQ_QUESTION_4": "茶猫支持哪些设备客户端？",
+          "AI_FAQ_QUESTION_5": "订阅周期和续费方式如何？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bao1999.cn",
+    "host": "bao1999.cn"
+  },
+  "file_hashes": {
+    "index.html": "3f3edb7f8f1c391476a18fce6abf7fc726374d76ef16333bda6f93b1e8d9e495",
+    "sitemap.xml": "d1da8705d957e1dab23b31d38cfb411f7cf0f07dc94ea7e747b586c1448f4414",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c8ccc3d46d2fba4eb72385e874d590de438dbc4e590b0070a34acc03049242f4",
+    "robots.txt": "62c33a50bd4d68bd3b11e3f5c665b8c5d3f9975c71d7456f62864d380ba36338",
+    "d86c2e5b4168df3c90afc1d1921f34c0.txt": "87f3951a9960dcd81e35664932aa0b0d6ad634a4b86e83a8fb21a49d16fc25bd"
+  },
+  "revision": "7e7a40077b0aaa430dc1c09f7962646b0a04158ef2996034bb9451295959fc5f"
+}
